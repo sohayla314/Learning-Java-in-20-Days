@@ -10,6 +10,6 @@ For 20 days, I’ll be:
 - Sharing what I learn (the wins *and* the struggles!) 🎯
 
 ## 📅 Journey Map
-- [Day 1 - Getting Started](#day-1---getting-started)
+- [Day 1 - Getting Started](#Day-1)
 
 Thanks for stopping by — and feel free to follow along or leave tips if you spot me struggling! 😅
